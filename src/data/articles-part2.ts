@@ -9,7 +9,7 @@ export const articlesPart2: Article[] = [
     publishDate: '2026-08-01',
     author: 'Bedrock Financial Planning',
     category: 'Money Activities',
-    readTime: 5,
+    readTime: 6,
     image:
       'https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80',
     content: `# Back-to-School Budgeting: Let Your Kids Take the Lead
@@ -99,7 +99,7 @@ This August, before you head to the store, try the budget exercise with your chi
     publishDate: '2026-08-01',
     author: 'Bedrock Financial Planning',
     category: 'Age-Based Learning',
-    readTime: 5,
+    readTime: 6,
     image:
       'https://images.unsplash.com/photo-1587654780291-39c9404d7dd0?w=800&q=80',
     content: `# Financial Literacy by Age: What Your 3-5 Year Old Can Learn
@@ -187,7 +187,7 @@ Think of financial literacy at this age like building with blocks. Each concept 
     publishDate: '2026-09-01',
     author: 'Bedrock Financial Planning',
     category: 'Age-Based Learning',
-    readTime: 5,
+    readTime: 6,
     image:
       'https://images.unsplash.com/photo-1484820540004-14229fe36ca4?w=800&q=80',
     content: `# Financial Literacy by Age: Money Skills for 6-8 Year Olds
@@ -276,7 +276,7 @@ In our next article in this series, we will cover financial skills for 9-12 year
     publishDate: '2026-09-01',
     author: 'Bedrock Financial Planning',
     category: 'For Parents',
-    readTime: 5,
+    readTime: 6,
     image:
       'https://images.unsplash.com/photo-1516733725897-1aa73b87c8e8?w=800&q=80',
     content: `# Why Most Parents Avoid Money Talks — And How to Start
@@ -462,7 +462,7 @@ Your tween is on the threshold of adolescence — a time when financial decision
     publishDate: '2026-10-01',
     author: 'Bedrock Financial Planning',
     category: 'Money Activities',
-    readTime: 5,
+    readTime: 6,
     image:
       'https://images.unsplash.com/photo-1509557965875-b88c97052f0e?w=800&q=80',
     content: `# Halloween Economics: Teaching Kids About Supply, Demand, and Trading
@@ -652,7 +652,7 @@ Do not wait for your teen to ask. Do not assume they are learning it in school. 
     publishDate: '2026-11-01',
     author: 'Bedrock Financial Planning',
     category: 'Family Finance',
-    readTime: 5,
+    readTime: 6,
     image:
       'https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80',
     content: `# Teaching Generosity: Why 'Give' Is Part of the Money Equation
