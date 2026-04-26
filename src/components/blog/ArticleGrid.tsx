@@ -1,0 +1,28 @@
+"use client";
+
+import ArticleCard from "./ArticleCard";
+import type { Article } from "@/types";
+
+interface ArticleGridProps {
+  articles: Article[];
+}
+
+export default function ArticleGrid({ articles }: ArticleGridProps) {
+  if (articles.length === 0) {
+    return (
+      <div className="py-16 text-center">
+        <p className="text-lg text-green-dark/50">
+          No articles found. Check back soon!
+        </p>
+      </div>
+    );
+  }
+
+  return (
+    <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+      {articles.map((article, index) => (
+        <ArticleCard key={article.slug} article={article} index={index} />
+      ))}
+    </div>
+  );
+}
