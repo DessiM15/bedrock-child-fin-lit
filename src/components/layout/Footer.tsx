@@ -13,12 +13,11 @@ export default function Footer() {
           {/* Brand */}
           <div className="lg:col-span-1">
             <div className="mb-4">
-              <span className="text-2xl font-bold font-[family-name:var(--font-heading)]">
-                Bedrock
-              </span>
-              <span className="block text-xs uppercase tracking-[0.2em] text-tan-light">
-                Financial Planning
-              </span>
+              <img
+                src="/images/logos/bedrock-logo-white.png"
+                alt="Bedrock Financial Planning"
+                className="h-12 w-auto"
+              />
             </div>
             <p className="text-sm leading-relaxed text-cream/70">
               Empowering the next generation with the financial knowledge and

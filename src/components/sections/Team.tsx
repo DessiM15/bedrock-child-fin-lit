@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "motion/react";
-import { Phone, User } from "lucide-react";
+import { Phone } from "lucide-react";
 import AnimatedText from "@/components/ui/AnimatedText";
 import SectionWrapper from "@/components/ui/SectionWrapper";
 import { teamMembers } from "@/data/team";
@@ -33,7 +33,7 @@ export default function Team() {
         </AnimatedText>
       </div>
 
-      <div className="mt-16 grid gap-8 sm:grid-cols-2 max-w-4xl mx-auto">
+      <div className="mt-16 grid gap-8 sm:grid-cols-2 lg:grid-cols-3 max-w-5xl mx-auto">
         {teamMembers.map((member, index) => (
           <motion.div
             key={member.name}
@@ -45,9 +45,11 @@ export default function Team() {
           >
             {/* Photo */}
             <div className="relative h-80 overflow-hidden bg-cream-dark">
-              <div className="flex h-full w-full items-center justify-center bg-gradient-to-br from-tan/20 to-green-dark/10">
-                <User size={80} className="text-tan/30" />
-              </div>
+              <img
+                src={member.image}
+                alt={member.name}
+                className="h-full w-full object-cover object-top transition-transform duration-500 group-hover:scale-105"
+              />
               <div className="absolute inset-0 bg-gradient-to-t from-green-dark/40 to-transparent opacity-0 transition-opacity group-hover:opacity-100" />
             </div>
 

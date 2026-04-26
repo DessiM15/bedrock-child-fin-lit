@@ -43,25 +43,12 @@ export default function Header() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="flex h-16 items-center justify-between md:h-20">
             {/* Logo */}
-            <a href="/" className="flex items-center gap-3">
-              <div className="flex flex-col">
-                <span
-                  className={cn(
-                    "text-xl font-bold font-[family-name:var(--font-heading)] transition-colors duration-300 md:text-2xl",
-                    isScrolled ? "text-green-dark" : "text-white"
-                  )}
-                >
-                  Bedrock
-                </span>
-                <span
-                  className={cn(
-                    "text-[10px] uppercase tracking-[0.2em] transition-colors duration-300 md:text-xs",
-                    isScrolled ? "text-tan" : "text-tan-light"
-                  )}
-                >
-                  Financial Planning
-                </span>
-              </div>
+            <a href="/" className="flex items-center">
+              <img
+                src={isScrolled ? "/images/logos/bedrock-financial-logo.png" : "/images/logos/bedrock-logo-white.png"}
+                alt="Bedrock Financial Planning"
+                className="h-10 w-auto transition-all duration-300 md:h-12"
+              />
             </a>
 
             {/* Desktop Navigation */}
