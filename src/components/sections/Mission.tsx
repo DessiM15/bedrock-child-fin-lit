@@ -37,7 +37,7 @@ export default function Mission() {
         >
           <div className="overflow-hidden rounded-3xl">
             <img
-              src="https://images.unsplash.com/photo-1602008228722-2348a4cd5a6a?w=800&q=80"
+              src="https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?w=800&q=80"
               alt="Parent and child learning about finances together"
               className="h-[500px] w-full object-cover"
             />
