@@ -198,14 +198,9 @@ The Cambridge University study (2013) identified ages 6-8 as the period when chi
 
 ## What Makes This Age Special
 
-Between ages six and eight, children undergo significant cognitive development. According to developmental psychologist Jean Piaget, children in this stage move from "preoperational" to "concrete operational" thinking. In practical terms, this means they can now:
+Between ages six and eight, children undergo significant cognitive development. According to developmental psychologist Jean Piaget, children in this stage move from "preoperational" to "concrete operational" thinking. They can now understand that quantities are conserved (five pennies equal a nickel), think logically about concrete events, understand cause and effect over time, and consider multiple dimensions of a problem at once.
 
-- Understand that quantities are conserved (five pennies equal a nickel, even though they look different)
-- Think logically about concrete events
-- Begin to understand cause and effect over time
-- Consider more than one dimension of a problem at once
-
-This is why 6-8 year olds are ready for more complex money activities — they can finally grasp that saving $2 per week will add up to $26 over three months.
+This is why 6-8 year olds are ready for more complex money activities — they can grasp that saving $2 per week adds up to $26 over three months.
 
 ## Skill 1: Setting and Reaching a Savings Goal
 
@@ -265,13 +260,11 @@ School is teaching your child addition and subtraction, and money provides the p
 
 ## Building Momentum
 
-The goal at ages 6-8 is not to create a mini financial advisor. It is to build **confidence, curiosity, and competence** around money. Every savings goal reached, every price comparison made, and every dollar earned through effort is a deposit in your child's financial education account.
-
-Researchers Lusardi and Mitchell have consistently found that financial literacy is not an innate trait — it is a learned skill, and it is learned best through practice. The habits your child forms now will carry forward into the tween years, the teen years, and beyond.
+The goal at ages 6-8 is not to create a mini financial advisor. It is to build **confidence, curiosity, and competence** around money. Researchers Lusardi and Mitchell have consistently found that financial literacy is a learned skill, best acquired through practice. The habits your child forms now will carry forward into the tween years, the teen years, and beyond.
 
 ## What Comes Next
 
-In our next article in this age-based series, we will cover financial skills for 9-12 year olds, including introduction to investing concepts, more advanced budgeting, and entrepreneurial thinking. The journey is just getting started.
+In our next article in this series, we will cover financial skills for 9-12 year olds, including investing concepts, advanced budgeting, and entrepreneurial thinking.
 
 *Bedrock Financial Planning is here to help your family build financial confidence at every age. Contact us to discuss how financial literacy fits into your family's bigger picture.*`,
   },
@@ -298,9 +291,9 @@ So why does this happen? And more importantly, how do you break the pattern?
 
 ### 1. They Do Not Feel Qualified
 
-The most common reason parents avoid money conversations is that they feel unprepared. A 2024 TIAA Institute-GFLEC Financial Literacy Survey found that only 48% of American adults could answer basic financial literacy questions correctly. When you are not confident in your own knowledge, teaching someone else feels daunting.
+The most common reason parents avoid money conversations is that they feel unprepared. A 2024 TIAA Institute-GFLEC Financial Literacy Survey found that only 48% of American adults could answer basic financial literacy questions correctly. When you lack confidence in your own knowledge, teaching someone else feels daunting.
 
-**The reality:** You do not need to be a financial expert to teach your child about money. You need to be willing to learn alongside them. Some of the most powerful conversations start with, "I do not know the answer to that — let us figure it out together."
+**The reality:** You do not need to be a financial expert. You need to be willing to learn alongside your child. Some of the most powerful conversations start with, "I do not know — let us figure it out together."
 
 ### 2. They Are Carrying Financial Shame
 
@@ -324,17 +317,13 @@ Even willing parents often get stuck on the practical question: what do you actu
 
 In many cultures and families, discussing money is considered rude, private, or inappropriate. If your parents never talked about money with you, it may not occur to you to talk about it with your children.
 
-**The reality:** Cultural sensitivity is important, and you can honor your family's values while still equipping your children with financial knowledge. Researchers Lusardi and Mitchell have found that financial literacy gaps disproportionately affect communities where money talk is culturally discouraged — breaking the cycle is an act of empowerment, not disrespect.
+**The reality:** You can honor your family's values while still equipping your children with financial knowledge. Researchers Lusardi and Mitchell have found that financial literacy gaps disproportionately affect communities where money talk is culturally discouraged — breaking the cycle is an act of empowerment.
 
 ## The Cost of Silence
 
-When parents avoid money conversations, children do not grow up in a financial vacuum. They fill the gaps with:
+When parents avoid money conversations, children fill the gaps with peer influence (often inaccurate), social media messaging (frequently promoting consumerism), and trial and error in early adulthood.
 
-- **Peer influence** — often inaccurate or materialistic
-- **Social media messaging** — frequently promoting consumerism and unrealistic lifestyles
-- **Trial and error** — learning through costly mistakes in early adulthood
-
-The National Financial Educators Council (NFEC) estimates that lack of financial literacy costs Americans an average of $1,506 per person per year. Over a lifetime, that adds up to tens of thousands of dollars in avoidable losses. And the 2022 PISA results showed that U.S. students ranked below the OECD average in financial literacy — suggesting that our collective silence is showing up in measurable ways.
+The NFEC estimates that lack of financial literacy costs Americans an average of $1,506 per person per year — tens of thousands over a lifetime. And the 2022 PISA results showed that U.S. students ranked below the OECD average in financial literacy, suggesting our collective silence is showing up in measurable ways.
 
 ## How to Start: Seven Low-Pressure Conversation Starters
 

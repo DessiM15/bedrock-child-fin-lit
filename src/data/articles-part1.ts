@@ -714,51 +714,47 @@ At this age, even waiting 30 seconds feels like an eternity. Start with tiny del
 
 ### Ages 6-9: Connect Waiting to Goals
 
-Children in this range can understand that waiting serves a purpose — it leads to something better.
+Children in this range can understand that waiting leads to something better.
 
-- **The savings goal.** Help your child save for something they want. A visual tracker (like a jar or thermometer chart) makes progress tangible. When they reach the goal, the experience of buying something with their own patience and effort is deeply reinforcing.
-- **The upgrade choice.** "You can have a small ice cream now, or if we wait until after dinner, we can all go to the ice cream shop for sundaes." Frame waiting as a path to something better, not as punishment.
-- **The matching game.** For every dollar your child saves toward a goal, match it with 50 cents or a dollar. This simulates the financial reward of patience (similar to how compound interest works) and gives them an incentive to wait.
+- **The savings goal.** Help your child save for something they want using a visual tracker. The experience of buying something with their own patience is deeply reinforcing.
+- **The upgrade choice.** "You can have a small ice cream now, or if we wait until after dinner, we can go for sundaes." Frame waiting as a path to something better.
+- **The matching game.** For every dollar your child saves, match it with 50 cents. This simulates the financial reward of patience and gives them incentive to wait.
 
 ### Ages 10-13: Introduce Opportunity Cost
 
-Preteens can grasp more abstract concepts. This is the age to introduce the idea that every spending decision has a hidden cost.
+This is the age to introduce the idea that every spending decision has a hidden cost.
 
-- **"What else could this buy?"** When your child wants to spend \$30 on a game, help them consider alternatives. "That \$30 could also be five months of a streaming subscription, or half of the skateboard you have been eyeing. Which matters more to you?"
-- **The 48-hour rule.** For any purchase over a certain amount (say, \$20), implement a 48-hour waiting period. If they still want it after two days, they can buy it. Research by **consumer psychologist Dr. Kit Yarrow** has found that this simple delay eliminates the majority of impulse purchases in both children and adults.
-- **The future self letter.** Have your child write a letter to their future self about a financial goal. "Dear Future Me, I am saving \$200 for a bicycle. It is hard to wait, but I know you will be glad I did." This exercise, based on research by **Hal Hershfield at UCLA**, strengthens the emotional connection to future outcomes.
+- **"What else could this buy?"** When your child wants to spend \$30 on a game, help them consider: "That is also half of the skateboard you have been eyeing. Which matters more?"
+- **The 48-hour rule.** For any purchase over \$20, implement a waiting period. Research by **consumer psychologist Dr. Kit Yarrow** found that this simple delay eliminates the majority of impulse purchases.
+- **The future self letter.** Have your child write to their future self about a savings goal. Based on research by **Hal Hershfield at UCLA**, this strengthens the emotional connection to future outcomes.
 
 ### Ages 14-18: Real Stakes, Real Practice
 
 Teenagers need to experience delayed gratification with real consequences.
 
-- **The car fund.** If your teen wants a car, create a matching savings plan. For every dollar they save from a part-time job, match a percentage. This gives them a powerful, real-world reason to delay smaller purchases in favor of a larger goal.
-- **The investment challenge.** Help your teen open a custodial investment account and put in a meaningful amount — even \$100. Check it quarterly. Watching money grow (or temporarily shrink) over months and years builds the patience muscle in a way no classroom lesson can.
-- **The credit simulation.** Show your teen what happens when people choose "buy now" on credit versus saving and paying cash. Use a credit card interest calculator to demonstrate that a \$500 purchase paid off over two years at 22% interest costs approximately \$620. The \$120 difference is the literal cost of impatience.
+- **The car fund.** If your teen wants a car, create a matching savings plan. For every dollar they save, match a percentage. This gives them a real-world reason to delay smaller purchases for a larger goal.
+- **The investment challenge.** Help your teen open a custodial investment account with even \$100. Watching money grow (or temporarily shrink) over months builds patience in a way no classroom lesson can.
+- **The credit simulation.** Show your teen that a \$500 purchase paid off over two years at 22% interest costs approximately \$620. The \$120 difference is the literal cost of impatience.
 
 ## What Not to Do
 
 ### Do Not Use Deprivation as a Teaching Tool
 
-Delayed gratification is about choosing to wait — not being forced to go without. If your child never gets the marshmallow, they learn that waiting is pointless. Make sure that when your child waits, the reward reliably arrives. The **2018 Watts replication study** showed that children who had experienced broken promises were far less likely to wait.
+Delayed gratification is about choosing to wait — not being forced to go without. If your child never gets the marshmallow, they learn that waiting is pointless. The **2018 Watts replication study** showed that children who experienced broken promises were far less likely to wait. Make sure the reward reliably arrives.
 
 ### Do Not Expect Perfection
 
-Every child (and every adult) gives in to impulse sometimes. When your child spends their savings on something frivolous, resist lecturing. Instead, ask calmly, "How do you feel about that choice?" The natural consequence — not having money for the thing they really wanted — is the most effective teacher.
+When your child spends their savings on something frivolous, resist lecturing. Ask calmly, "How do you feel about that choice?" The natural consequence is the most effective teacher.
 
 ### Do Not Ignore Your Own Modeling
 
-Children learn more from watching than listening. If you want your child to develop delayed gratification, let them see you practicing it. "I really want that new jacket, but I am going to wait until next month because we have other priorities right now."
-
-A **T. Rowe Price 2022 survey** found that children who observed their parents making deliberate spending choices were significantly more likely to exhibit patience with their own money.
+Children learn more from watching than listening. Let them see you practice patience: "I really want that jacket, but I am going to wait until next month." A **T. Rowe Price 2022 survey** found that children who observed parents making deliberate spending choices were significantly more likely to exhibit patience with their own money.
 
 ## The Bigger Picture
 
-The marshmallow test was never really about marshmallows. It was about a child's belief that waiting is worthwhile — that the future holds something better than the present moment.
+The marshmallow test was never really about marshmallows. It was about a child's belief that waiting is worthwhile.
 
-When you teach your child to delay gratification, you are not just building a financial skill. You are building confidence that they can handle discomfort, make plans, and trust themselves to follow through.
-
-In a world of one-click purchases, same-day delivery, and buy-now-pay-later schemes, that skill is more valuable than ever. Start building it today. One marshmallow at a time.`,
+When you teach your child to delay gratification, you are building confidence that they can handle discomfort, make plans, and trust themselves to follow through. In a world of one-click purchases and buy-now-pay-later schemes, that skill is more valuable than ever. Start building it today — one marshmallow at a time.`,
   },
 
   // ─── ARTICLE 8 ─── July 2026 ────────────────────────────────────────────────
